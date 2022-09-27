@@ -1,0 +1,17 @@
+.button-wrapper {
+  height: 3.5em;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: #23aca0;
+  color: white;
+  font-size: 24px;
+  flex: 1;
+  margin: 4px;
+  border-radius: 10px;
+  transition: all 0.5s;
+}
+
+.button-wrapper:hover {
+  opacity: 0.7;
+}
